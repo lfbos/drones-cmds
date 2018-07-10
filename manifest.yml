@@ -4,7 +4,7 @@ applications:
   instances: 1
   name: drones-cmds
   disk_quota: 1024M
-  command: drones-cmds
+  command: lfbos-drones-cmds
   buildpack: https://github.com/cloudfoundry/go-buildpack.git
   services:
     - rabbit  

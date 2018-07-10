@@ -10,7 +10,7 @@ import (
 	"testing"
 
 	"github.com/cloudfoundry-community/go-cfenv"
-	. "github.com/cloudnativego/drones-cmds/service"
+	. "github.com/lfbos/drones-cmds/service"
 	dronescommon "github.com/cloudnativego/drones-common"
 	"github.com/streadway/amqp"
 )

@@ -7,7 +7,7 @@ import (
 
 	"github.com/cloudfoundry-community/go-cfenv"
 	"github.com/cloudnativego/cf-tools"
-	"github.com/cloudnativego/drones-cmds/fakes"
+	"github.com/lfbos/drones-cmds/fakes"
 	"github.com/codegangsta/negroni"
 	"github.com/gorilla/mux"
 	"github.com/streadway/amqp"

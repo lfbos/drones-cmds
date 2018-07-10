@@ -7,7 +7,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/cloudnativego/drones-cmds/fakes"
+	"github.com/lfbos/drones-cmds/fakes"
 	dronescommon "github.com/cloudnativego/drones-common"
 	"github.com/codegangsta/negroni"
 	"github.com/gorilla/mux"
